@@ -1,0 +1,14 @@
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Alura - Cursos\API02\bin\Debug\net8.0\API02.exe
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Alura - Cursos\API02\bin\Debug\net8.0\API02.deps.json
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Alura - Cursos\API02\bin\Debug\net8.0\API02.runtimeconfig.json
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Alura - Cursos\API02\bin\Debug\net8.0\API02.dll
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Alura - Cursos\API02\bin\Debug\net8.0\API02.pdb
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Alura - Cursos\API02\obj\Debug\net8.0\API02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Alura - Cursos\API02\obj\Debug\net8.0\API02.AssemblyInfoInputs.cache
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Alura - Cursos\API02\obj\Debug\net8.0\API02.AssemblyInfo.cs
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Alura - Cursos\API02\obj\Debug\net8.0\API02.csproj.CoreCompileInputs.cache
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Alura - Cursos\API02\obj\Debug\net8.0\API02.dll
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Alura - Cursos\API02\obj\Debug\net8.0\refint\API02.dll
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Alura - Cursos\API02\obj\Debug\net8.0\API02.pdb
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Alura - Cursos\API02\obj\Debug\net8.0\API02.genruntimeconfig.cache
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Alura - Cursos\API02\obj\Debug\net8.0\ref\API02.dll
